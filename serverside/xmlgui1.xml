@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xmlgui>
+<form id="1" name="Robotics Club Registration" submitTo="https://yourserveurlhere/xmlgui1-post.php" >
+<field name="fname" label="First Name" type="text" required="Y" options=""/>
+<field name="lname" label="Last Name" type="text" required="Y" options=""/>
+<field name="gender" label="Gender" type="choice" required="Y" options="Male|Female"/>
+<field name="age" label="Age on December 10, 2018" type="numeric" required="N" options=""/>
+</form>
+</xmlgui>
+
